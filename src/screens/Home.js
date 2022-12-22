@@ -118,17 +118,12 @@ const Home = () => {
 };
 
 const styles = StyleSheet.create({
-    statusBar: {
-        // height: STATUSBAR_HEIGHT,
-    },
     appBar: {
         backgroundColor: '#79B45D',
-        // height: APPBAR_HEIGHT,
     },
     container: {
         backgroundColor: '#f4fbfa',
         paddingBottom: 40,
-        // paddingVertical:10
         marginVertical: 15,
     },
     title: {
